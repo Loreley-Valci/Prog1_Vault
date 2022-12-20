@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "d87a9ee83d272781",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b3afd384e677ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7597335094c25bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simboli obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8c6d2ba9cf38902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Test/Parziali/2° - dic 2022/Esercizio 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "637a1109f565a2c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Test/Parziali/2° - dic 2022/Esercizio 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b981c4fcf373d125",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee43addcb70f17d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "958eeab2b6ce92ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "656cd7110d0f1e2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b15014b96e559ef6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#sommatoria",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fd51dee2939f1ad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "859c4b6027657ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fe905750d749f25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c99654f8c72519d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ec424ab536b80e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ded03730591e97c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "fdd7bda486637f06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "active": "656cd7110d0f1e2a",
+  "lastOpenFiles": [
+    "1 Test/Parziali/2° - dic 2022/Esercizio 3.md",
+    "1 Test/Parziali/2° - dic 2022/Esercizio 2.md",
+    "1 Test/Parziali/2° - dic 2022/Esercizio 2.img1.jpg",
+    "1 Test/Parziali/1° - nov 2022/Esercizio 3.md",
+    "1 Test/Parziali/2° - dic 2022/Esercizio 1.md",
+    "1 Test/Parziali/1° - nov 2022/Esercizio 5.md",
+    "1 Test/Parziali/1° - nov 2022/Esercizio 4.md",
+    "1 Test/Parziali/1° - nov 2022/Esercizio 3.img1.jpg",
+    "Esercizio 3.img1.jpg.md",
+    "Esercitazioni/Foglio 8/Esercizio 5.md"
+  ]
+}
