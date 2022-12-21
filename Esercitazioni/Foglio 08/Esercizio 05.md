@@ -4,7 +4,7 @@ $$
 	a[0] \ge a[1] \le a[2] \ge a[3] \le a[4] \ge a[5] \le \space ...
 $$
 
-![[Esercizio 5.img1.jpg]]
+![[Esercitazioni/Foglio 08/Esercizio 05.img1.jpg]]
 
 Esempio: se l’input è $𝑎 = [4,10,8,7, −2,99,0]$, un output è $a = [10, 4, 8, 7, 99, −2, 0]$.
 

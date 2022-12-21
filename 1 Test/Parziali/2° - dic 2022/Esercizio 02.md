@@ -9,6 +9,6 @@ for(int i=0; i<3; i++)
 ```
 Si proponga un modo di complementare il codice al punto $?$ al fine di creare esattamente la memoria rappresentata.
 
-![[1 Test/Parziali/2° - dic 2022/Esercizio 2.img1.jpg]]
+![[1 Test/Parziali/2° - dic 2022/Esercizio 02.img1.jpg]]
 
 Esecuzione:

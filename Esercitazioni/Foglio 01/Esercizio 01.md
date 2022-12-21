@@ -1,4 +1,4 @@
-#FunzioneIterativa 
+2#FunzioneIterativa 
 Scrivere un programma che, dato un intero inserito da tastiera, stampi i valori dei quadrati perfetti per tutti gli interi minori del numero inserito.
 
 Esempio: assumiamo $𝑁 = 5$. Il programma deve stampare $𝑀$ , per→$2 𝑀 = 1,..., 𝑁 12, 22, 32, ..., 𝑁2$

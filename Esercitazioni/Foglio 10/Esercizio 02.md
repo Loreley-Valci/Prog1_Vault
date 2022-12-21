@@ -16,7 +16,7 @@ Dove $$ h=\frac{b-a}{M}$$Calcolare poi l’approssimazione dei seguenti integral
 - $\int_{-\frac{\pi}{2}}^{\pi}{e^{2x} \; dx}$
 - $\int_{-2}^{2}{\frac{x}{1+x^2} \; dx}$
 
-![[Esercitazioni/Foglio 10/Esercizio 2.img1.jpg]]
+![[Esercitazioni/Foglio 10/Esercizio 02.img1.jpg]]
 Scrivendo le corrette sotto-classi di Funzione (sotto-classi che fanno l’override di eval() a seconda della funzione che stanno implementando).
 
 Esecuzione:
