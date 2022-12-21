@@ -92,4 +92,13 @@ $$
 	\geq
 $$
 ---
+Unione
+$$
+	\cap
+$$
+Intersezione
+$$
+	\cup
+$$
+---
 ...

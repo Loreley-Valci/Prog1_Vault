@@ -1,8 +1,6 @@
 #array #sommatoria #elementi_ordinati 
 Si consideri un array $A$ di elemti $a_0, ..., a_{n-1}$ positivi, e la formula
-$$
-	\sum^k_{i=0}a_i \le w < \sum^{k+1}_{i=0}a_i
-$$
+$$	\sum^k_{i=0}a_i \le w < \sum^{k+1}_{i=0}a_i $$
 dove $w>0$ e $k<n-1$
 A. Si scriva una funzione $estrattore$ che, partengono da $A$ e $w$
 	- ordini $A$, con un metodo a scelta dello studente;

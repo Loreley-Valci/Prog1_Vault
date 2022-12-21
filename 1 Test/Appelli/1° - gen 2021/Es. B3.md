@@ -6,10 +6,7 @@ class Function:
 	def eval(self):
 		pass
 ```
-L’algoritmo deve calcolare il valore medio $\overset{\wedge}{f}$ di $f(x)$ su di un intervallo $[a, b]$, con $0 \le a < b$. La formula per $\overset{\wedge}{f}$ viene definita come segue:
-$$
-	\overset{\wedge}{f}=\frac{1}{N}\sum^{N-1}_{i=0}\space f(a+i\sigma)
-$$
+L’algoritmo deve calcolare il valore medio $\overset{\wedge}{f}$ di $f(x)$ su di un intervallo $[a, b]$, con $0 \le a < b$. La formula per $\overset{\wedge}{f}$ viene definita come segue: $$ \overset{\wedge}{f}=\frac{1}{N}\sum^{N-1}_{i=0}\space f(a+i\sigma)$$
 dove:
 - $N$ sono i sotto-intervalli in cui viene diviso l’intervallo $[a, b]$
 - i sotto-intervalli sono tutti della stessa dimensione $\sigma > 0$

@@ -1,4 +1,4 @@
-#successione #array #FunzioneIterativa 
+#successione #array #FunzioneIterativa #prodotto 
 Si consideri la successione $$F_1=1 \qquad F_n=\frac{n+1}{F_{n-1}} \qquad n\ge2$$ e la quantità $$F=\prod^N_{i=1} F_{x_i}$$ 
 calcolata a partire da un array $x$ di N valori non negativi $x_1, x_2, . . ., x_N$.
 Si scriva un programma C che dato $x$ calcoli $F$ iterativamente e ogni $F_i$ ricorsivamente.
