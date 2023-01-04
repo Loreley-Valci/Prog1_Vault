@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecb87e248d58292e",
+            "id": "1add419bd1aaae63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9430836060893aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 15.md",
+                "file": "Dispensa/Esercizi/11 - Serie e successioni/Esercizio 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 15.md",
+                "file": "Dispensa/Esercizi/11 - Serie e successioni/Esercizio 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 15.md",
+                "file": "Dispensa/Esercizi/11 - Serie e successioni/Esercizio 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 15.md"
+                "file": "Dispensa/Esercizi/11 - Serie e successioni/Esercizio 3.md"
               }
             }
           }
@@ -160,17 +147,17 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "9430836060893aac",
+  "active": "1add419bd1aaae63",
   "lastOpenFiles": [
+    "Dispensa/Esercizi/11 - Serie e successioni/Esercizio 2.md",
+    "Dispensa/Esercizi/11 - Serie e successioni/Esercizio 3.md",
+    "Dispensa/Esercizi/11 - Serie e successioni/Esercizio 1.md",
+    "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 15.md",
     "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 14.md",
-    "Simboli obsidian.md",
-    "Dispensa/Esempi/Senza nome.canvas",
-    "Dispensa/Senza nome.md",
-    "Dispensa/05 - Puntatori/Esercizio 02.md",
-    "Dispensa/03 - Istruzioni condizionale ed iterative/Esercizio 01.md",
-    "Dispensa/10 - Funzioni ricorsive ed ricorsive/Esercizio 14.md",
-    "Dispensa/10 - Funzioni ricorsive ed ricorsive/Esercizio 13.md",
-    "Esercitazioni/Foglio 02/Esercizio 04.md",
-    "Esercizi aggiuntivi/Fibonacci.md"
+    "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 13.md",
+    "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 12.md",
+    "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 11.md",
+    "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 10.md",
+    "Dispensa/Esercizi/10 - Funzioni ricorsive ed ricorsive/Esercizio 09.md"
   ]
 }
